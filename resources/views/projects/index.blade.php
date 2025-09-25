@@ -30,6 +30,10 @@
                 <p class="text-sm text-gray-600">Manufacturing plant in Hyderabad.</p>
             </div>
         </div>
+
+        <div>
+            <h1>Hiii Anbu</h1>
+        </div>
     </div>
 </div>
 @endsection
